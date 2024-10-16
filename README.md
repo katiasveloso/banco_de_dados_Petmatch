@@ -19,16 +19,16 @@ Bem-vindo a repositório do proejto do **Curso "Talento Cloud"** oferecido pela 
 - Realizar consultas simples, se possível, juntando tabelas.
 Desenvolvimento
 
-Uso de recursos de apresentação (slides, demonstração de uso do app, etc);
+### Uso de recursos de apresentação (slides, demonstração de uso do app, etc);
 
-Uso do Git;
-Uso do SQL;
-Uso do Discord para comunicação da equipe.
+- Uso do Git;
+- Uso do SQL;
+- Uso do Discord para comunicação da equipe.
 
-Organização
+### Organização
 
-Construir a apresentação do pitch pela equipe;
-Submeter o projeto para avaliação final.
+- Construir a apresentação do pitch pela equipe;
+- Submeter o projeto para avaliação final.
 
 
 
