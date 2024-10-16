@@ -1,6 +1,6 @@
 # Sprint V - BD:  Create e Read + Apresentação do PI
 
-Repositório Proejto Banco de dados  "Talento Cloud"
+Repositório Projeto Banco de dados  
 
 Bem-vindo a repositório do **Curso "Talento Cloud"** oferecido pela **AWS** em parceria com a **PROZ Educação**. Este repositório é dedicado ao armazenamento de atividades e projetos realizados durante o curso.
 
