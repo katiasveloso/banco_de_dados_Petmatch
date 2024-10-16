@@ -8,7 +8,7 @@ Bem-vindo a repositório do proejto do **Curso "Talento Cloud"** oferecido pela 
 
 ## 📂 Instrução do projeto
 
-###Espera-se que o aluno consiga executar as seguintes atividades: 
+### Espera-se que o aluno consiga executar as seguintes atividades: 
 
 - Modelar o DER (Diagrama Entidade Relacionamento) de uma parte do sistema com 4 entidades no mínimo;
 
