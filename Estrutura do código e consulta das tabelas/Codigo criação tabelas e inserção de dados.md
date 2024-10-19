@@ -25,8 +25,10 @@ VALUES
 ('5', 'Sergio Pereira', '59001826067', 'Rua Ana da Ailveira, 600', '35986523120', 'sspereira@gmail.com'),
 ('6', 'João lima', '34593117038', 'Rua da Acacias, 200', '12988520314', 'joaolima@gmail.com')
 
-
+ ```sql
+ 
 ![Resultado](image.png)
+
 **********************************************************************
 
 2 - Tabela pets
