@@ -25,9 +25,9 @@ VALUES
 ('5', 'Sergio Pereira', '59001826067', 'Rua Ana da Ailveira, 600', '35986523120', 'sspereira@gmail.com'),
 ('6', 'João lima', '34593117038', 'Rua da Acacias, 200', '12988520314', 'joaolima@gmail.com')
 
- 
+```markdown 
 
-![Resultado](/banco_de_dados_Petmetch/Estrutura%20do%20código%20e%20consulta%20das%20tabelas/image.png)
+![Resultado](image.png)
 
 **********************************************************************
 
@@ -53,6 +53,8 @@ VALUES
 (4, 'José', '5kg', 'Macho', '2 anos', 'cachorro', 'Pequeno', 5),
 (5, 'Beiçola', '3kg', 'Macho', '6 meses', 'Gato', 'Pequeno', 6),
 (6, 'Luna', '7kg', 'Fêmea', '2 anos', 'Gato', 'Pequeno', 4)
+
+ ```markdown
 
 ![Resultado](image-1.png)
 *********************************************************************
