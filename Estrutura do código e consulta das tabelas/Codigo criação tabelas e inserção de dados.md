@@ -25,9 +25,9 @@ VALUES
 ('5', 'Sergio Pereira', '59001826067', 'Rua Ana da Ailveira, 600', '35986523120', 'sspereira@gmail.com'),
 ('6', 'João lima', '34593117038', 'Rua da Acacias, 200', '12988520314', 'joaolima@gmail.com')
 
- ```sql
  
-![Resultado](image.png)
+
+![Resultado](/banco_de_dados_Petmetch/Estrutura%20do%20código%20e%20consulta%20das%20tabelas/image.png)
 
 **********************************************************************
 
