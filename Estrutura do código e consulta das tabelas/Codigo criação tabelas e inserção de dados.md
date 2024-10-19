@@ -27,7 +27,7 @@ VALUES
 
 ```markdown 
 
-![Resultado](image.png)
+![Resultado](banco_de_dados_Petmetch/Estrutura%20do%20código%20e%20consulta%20das%20tabelas/image.png)
 
 **********************************************************************
 
