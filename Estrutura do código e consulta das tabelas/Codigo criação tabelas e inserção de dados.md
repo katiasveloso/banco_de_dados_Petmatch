@@ -2,6 +2,8 @@
 
  ### Comando CREATE  e  INSERT
 
+ ```sql
+
  1 - Tabela Usuários
 
  CREATE TABLE Usuarios (
