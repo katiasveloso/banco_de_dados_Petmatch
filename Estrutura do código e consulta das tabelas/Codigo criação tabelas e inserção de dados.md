@@ -25,11 +25,11 @@ VALUES
 ('5', 'Sergio Pereira', '59001826067', 'Rua Ana da Ailveira, 600', '35986523120', 'sspereira@gmail.com'),
 ('6', 'João lima', '34593117038', 'Rua da Acacias, 200', '12988520314', 'joaolima@gmail.com')
 
-```md
-![Resultado](image-4.png)
 ```
-**********************************************************************
+![Resultado](image-4.png)
 
+**********************************************************************
+```sql
 2 - Tabela pets
 
 CREATE TABLE Pets (
@@ -53,11 +53,11 @@ VALUES
 (5, 'Beiçola', '3kg', 'Macho', '6 meses', 'Gato', 'Pequeno', 6),
 (6, 'Luna', '7kg', 'Fêmea', '2 anos', 'Gato', 'Pequeno', 4)
 
- ```markdown
+ ```
 
 ![Resultado](image-1.png)
 *********************************************************************
-
+```sql
 3 - Tabela Localizacao
 
 CREATE TABLE Localizacao (
@@ -79,10 +79,11 @@ VALUES
 (5, 'Rua Bernado Guimaraes, 44', 'Pelotas', 'RS', 4),
 (6, 'Rua Alves, 33', 'Olinda', 'PE', 1)
 
+```
 ![Resultado](image-2.png)
 
 ****************************************************************************
-
+```SQL
 4- Tabela doacoes
 
 CREATE TABLE Doacoes (
@@ -100,5 +101,7 @@ VALUES
 ('D001', 'João Souza', 200.00, 'Dinheiro', '2024-10-01', 2),
 ('D002', 'Alice Maria', 150.00, 'Pix', '2024-10-05', 4),
 ('D003', 'Katia veloso', 150.00, 'Pix', '2024-10-05', 3)
+
+```
 
 ![Resultado](image-3.png)
