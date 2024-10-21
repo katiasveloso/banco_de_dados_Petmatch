@@ -26,7 +26,7 @@ VALUES
 ('6', 'João lima', '34593117038', 'Rua da Acacias, 200', '12988520314', 'joaolima@gmail.com')
 
 ```
-![Resultado](image-4.png)
+![Resultado](image.png)
 
 **********************************************************************
 ```sql
