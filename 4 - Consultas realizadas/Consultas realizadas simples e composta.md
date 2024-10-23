@@ -77,3 +77,13 @@ where nome_usuario = 'Alice Maria'
 
 ![Resultado](image-6.png)
 
+7 - Consultar os pets com mais de 5 anos de idade.
+
+```sql
+SELECT p.NOME_PET, p.IDADE, u.NOME_USUARIO
+FROM pets AS p
+JOIN usuarios AS u ON p.USUARIO_ID = u.USUARIO_ID
+WHERE p.IDADE > '5'
+
+```
+![Resultado](image-7.png)
